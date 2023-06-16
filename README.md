@@ -28,10 +28,6 @@ The Attendance Management Portal is a Python-based application that uses face re
 2. Follow the instructions on the GUI to register students, start attendance marking, and view attendance records.
 3. Customize the application as per your requirements, such as modifying the GUI, integrating with a database, etc.
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow the guidelines in CONTRIBUTING.md to submit pull requests, report issues, or suggest improvements.
-
 ## Contact
 
 For any inquiries or feedback, please contact alokrajharmu@gmail.com.
